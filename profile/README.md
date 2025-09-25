@@ -1,6 +1,6 @@
-# 攻略 JS 逆向系列
-- CureMagicS1   浏览器插件辅助逆向 —— 仅支持 Chrome/Edge
+# 攻略 Web 逆向系列
+- CureMagicS1   浏览器插件
 - CureMagicS2   补环境运行时
-- CureMagicS3   自定义浏览器，解决 HOOK 的检测点
+- CureMagicS3   自定义浏览器
 - CureMagicSP1  AST 处理混淆代码
 - CureMagicSP2  AST 快速定位
